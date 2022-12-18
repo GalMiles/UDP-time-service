@@ -14,14 +14,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Knowledge</a></li>
   </ol>
 </details>
 
@@ -58,6 +51,6 @@ The service includes 13 different options:
 * Winsock2 library
 * [Time library](https://www.tutorialspoint.com/c_standard_library/time_h.htm)
 
-## Acknowledgements
+## Knowledge
 * Socket API
 * DNS records
